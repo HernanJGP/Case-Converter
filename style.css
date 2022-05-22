@@ -1,0 +1,30 @@
+body {
+    padding: 2rem;
+
+}
+
+textarea {
+
+    height: 500px;
+    width: 1100px;
+}
+.title {
+    font-size: xxx-large;
+    font-family: arial;
+    margin: 20px;
+}
+.button {
+    display: flex;
+
+}
+
+#upper-case, #lower-case, #proper-case,#sentence-case, #save-text-file {
+
+    height: 2em;
+    color: black;
+    margin-right: 8px;
+    background-color: darksalmon;
+    font-size: large;
+
+}
+
